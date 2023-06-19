@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686652152 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_01\stack_ds.c
+	"stack_ds.h"
+
+1686725484 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_01\stack_ds.h
+	"std_types.h"
+
+1686643620 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_01\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1686651245 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds.h"
+

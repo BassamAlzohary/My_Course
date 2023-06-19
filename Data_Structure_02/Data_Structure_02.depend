@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686747367 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack_DM_Arr.h"
+
+1686741099 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_02\stack_dm_arr.h
+	<stdlib.h>
+	"Platform.h"
+
+1686655032 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_02\platform.h
+
+1686747248 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_02\stack_dm_arr.c
+	"Stack_DM_Arr.h"
+

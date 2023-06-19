@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1686831337 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArr.h"
+
+1686830187 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\queuearr.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform.h"
+
+1686780519 c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\platform.h
+
+1686831016 source:c:\users\bassamayman\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\queuearr.c
+	"QueueArr.h"
+
+1686905599 source:c:\users\bassam\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArr.h"
+
+1686833941 c:\users\bassam\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\queuearr.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform.h"
+
+1686780519 c:\users\bassam\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\platform.h
+
+1686905840 source:c:\users\bassam\onedrive - helwan university(engineering (helwan))\my studies\c_pro\ahmed_testc\data_structure_03\queuearr.c
+	"QueueArr.h"
+
